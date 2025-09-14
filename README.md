@@ -1,2 +1,2 @@
-# password
- Objective: Crack password hashes using dictionary and brute-force attacks with  tools like Hashcat.  Tools : Hashcat, John the Ripper, Kali Linux, rockyou.txt  Deliverables: Hash list, cracked output, explanation of attack strategy   Outcome: Learn how weak passwords are cracked and how to defend  against such attacks.
+
+![WhatsApp Image 2025-05-26 at 21 06 05_0b32a4d6](https://github.com/user-attachments/assets/c7a53431-0ef8-47f0-a68b-951c62e058a4)
